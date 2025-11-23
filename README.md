@@ -1,4 +1,4 @@
-# Black-hole-simulation-using-python
+# Event-Horizon
 
 Non-spinning black hole simulation based on photon geodesic equation.
 This program takes an equirectangular image and returns the image distorded by the black hole.
